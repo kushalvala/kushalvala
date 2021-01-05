@@ -6,7 +6,7 @@
 - 🍷 Wine'O Clock is the best time.
 - 📚 In my free time, I love reading books on fiction, spy-thrillers, feminism. 
 - 📫 How to reach me: @kushalvala (on Twitter) 
-- ✍️ I frequently write blogs on Medium and DEV.to
+- ✍️ I frequently write blogs on [Medium](https://medium.com/@kushalvala20) and [DEV.to](https://dev.to/kushalvala)
 - 😄 Pronouns: he/him 
 
 Blogs:  
