@@ -25,6 +25,10 @@ I regularly share insights and tutorials on various data science and machine lea
 
 Follow me on [Medium](https://medium.com/@kushalvala) for more articles and tutorials.
 
+## 🌟 GitHub Stats
+
+![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kushalvala&show_icons=true&theme=radical)
+
 ## 📫 How to Reach Me
 
 Feel free to connect with me for collaborations, questions, or just a chat about data science and machine learning.
