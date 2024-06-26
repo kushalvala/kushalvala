@@ -13,6 +13,11 @@ I am passionate about transforming data into actionable insights and creating in
 - **MLOps**: Docker, Kubernetes, MLFlow, KubeFlow
 - **LLM** : OpenAI, Llama2.0, Mistral, Unsloth.ai, Ollama, LangChain Framework, LangGraph 
 
+## 🎓 Certifications & Courses
+
+- **Deep Learning Specialization (DeepLearning.AI)**
+- **TensorFlow Developer Professional Certificate** by deeplearning.ai
+- **Generative AI with Large Language Models** by AWS 
 
 ## 📝 My Blogs on Medium
 
