@@ -13,21 +13,6 @@ I am passionate about transforming data into actionable insights and creating in
 - **MLOps**: Docker, Kubernetes, MLFlow, KubeFlow
 - **LLM** : OpenAI, Llama2.0, Mistral, Unsloth.ai, Ollama, LangChain Framework, LangGraph 
 
-## 📈 Experience
-
-### Tech9 | Data Scientist
-**January 2020 – Present | Pune, India**
-
-- **Founding Data Scientist** of the AI department in the company.
-- Developed and implemented the department’s foundational strategies, shaping its direction in alignment with organizational goals.
-- Lead multiple projects, building end-to-end machine learning pipelines on Cloud platforms.
-
-### Datametica Solutions Pvt Ltd | Junior Data Scientist
-**June 2018 – December 2019 | Pune, India**
-
-- Played a key role in the model development and validation process, ensuring robustness and accuracy in projects.
-
-I have a proven track record of delivering effective data-driven solutions and spearheading innovative projects in both of these roles.
 
 ## 📝 My Blogs on Medium
 
